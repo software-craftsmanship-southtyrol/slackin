@@ -6,7 +6,7 @@
   "description": "Public Slack organizations made easy",
   "repository": {
     "type": "git",
-    "url": "https://github.com/software-craftsmanship-southtyrol/slackin"
+    "url": "https://github.com/software-craftsmanship-southtyrol/slackin.git"
   },
   "main": "dist/index",
   "files": [
