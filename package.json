@@ -59,6 +59,6 @@
   "scripts": {
     "test": "mocha && eslint lib/**",
     "prepublish": "gulp",
-    "postpublish": "publish-latest"
+    "postpublish": "publish-latest -e juri.strumpflohner@gmail.com -n Juri"
   }
 }
