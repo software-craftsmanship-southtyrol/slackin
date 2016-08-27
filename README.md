@@ -1,5 +1,7 @@
 # slackin
 
+[![Build Status](https://travis-ci.org/software-craftsmanship-southtyrol/slackin.svg?branch=master)](https://travis-ci.org/software-craftsmanship-southtyrol/slackin)
+
 A little server that enables public access to a Slack server. Like Freenode, but on Slack.
 
 It provides
