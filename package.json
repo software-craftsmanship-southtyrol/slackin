@@ -1,8 +1,13 @@
 {
   "name": "slackin",
   "version": "0.13.0",
+  "private": true,
+  "author": "Juri Strumpflohner <juri.strumpflohner@gmail.com>",
   "description": "Public Slack organizations made easy",
-  "repository": "rauchg/slackin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/software-craftsmanship-southtyrol/slackin"
+  },
   "main": "dist/index",
   "files": [
     "dist",
